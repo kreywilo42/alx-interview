@@ -1,2 +1,1 @@
-#
-0x06. Star Wars API
+# Starwars API
